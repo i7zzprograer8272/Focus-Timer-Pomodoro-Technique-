@@ -55,7 +55,6 @@ Traditional timers and time management tools lack the scientifically-backed stru
 
 ## High-Level Features
 
-### Core Timer Functionality
 1. **Configurable Session Timers**
    - Adjustable work duration (1-60 minutes)
    - Customizable short break periods (1-60 minutes)
@@ -68,10 +67,8 @@ Traditional timers and time management tools lack the scientifically-backed stru
    - Session interruption handling with resume capability
    - Real-time session progress visualization
 
-### User Experience Features
 3. **Intuitive Interface**
    - Clean command-line display with real-time updates
-   - Visual progress bars and countdown timers
    - Color-coded session indicators
    - Simple menu-driven navigation
 
@@ -81,28 +78,10 @@ Traditional timers and time management tools lack the scientifically-backed stru
    - Clear session status messages
    - Completion celebration messages
 
-### Data Management Features
 5. **Progress Tracking**
    - Historical session recording with timestamps
    - Daily/weekly productivity statistics
    - Session completion streak tracking
    - Exportable session history
 
-6. **Configuration Management**
-   - Persistent user settings across sessions
-   - Easy configuration reset options
-   - Settings validation and error handling
-   - Automatic configuration file creation
 
-### Technical Features
-7. **Cross-Platform Compatibility**
-   - Windows sound notification support
-   - Unix/macOS audio fallback mechanisms
-   - Consistent behavior across operating systems
-   - No external dependency requirements
-
-8. **Error Handling & Reliability**
-   - Graceful handling of invalid user inputs
-   - File system error recovery
-   - Session interruption safety
-   - Data corruption prevention
